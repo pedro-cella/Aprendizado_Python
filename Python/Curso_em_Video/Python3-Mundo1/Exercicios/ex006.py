@@ -1,0 +1,7 @@
+print("====== DESAFIO 6 ======")
+print("Sobre o programa: Crie um algoritmo que leia um numero e mostre o seu dobro, triplo e raiz quadrada")
+numero = int(input("Digite um numero: "))
+print("Seu numero e: {}".format(numero))
+print("O dobro de {} e {}".format(numero, numero*2))
+print("O triplo de {} e {}".format(numero, numero*3))
+print("E a raiz quadrada de {} e {}".format(numero, numero**(1/2)))

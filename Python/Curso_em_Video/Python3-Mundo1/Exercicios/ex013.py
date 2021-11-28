@@ -1,0 +1,6 @@
+print("====== DESAFIO 13 ======")
+print("Sobre o programa: Daca um algoritmo que leia o salario de um funcionario", end='')
+print("e mostre seu novo salario, com 15% de aumento")
+salario = float(input("Digite o salario do funcionario: "))
+aumento = salario + (salario*0.15)
+print("O salario do funcionario e {:.2f}, com o aumento de 15% ficara {:.2f}".format(salario, aumento))

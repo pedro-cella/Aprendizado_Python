@@ -1,0 +1,7 @@
+print("====== DESAFIO 04 ======")
+algo = input('Digite algo no teclado: ')
+print("O tipo primitivo de {} eh {}".format(algo, type(algo)))
+print("Ele eh {} para numero".format(algo.isalnum()))
+print("Ele eh {} para letra".format(algo.isalpha()))
+print("Ele eh {} para maiusculo".format(algo.isupper()))
+print("Ele eh {} para minusculo".format(algo.islower()))
