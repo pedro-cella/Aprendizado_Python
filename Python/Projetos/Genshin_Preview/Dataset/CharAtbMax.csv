@@ -1,0 +1,42 @@
+Personagem,Level,Arma,HP,ATK,DEF,SPAtrib,Atributo,TaxaCrit,Dano+DanoCritico
+Amber,90,Arco,9461,223,601,0.24,%ATK,0.05,1.5
+Barbara,90,Catalisador,9787,159,669,0.24,%Vida,0.05,1.5
+Beidou,90,Espadão,13050,225,648,0.24,%DanoElectro,0.05,1.5
+Bennett,90,Espada,12397,191,771,0.267,%RecargaEnergia,0.05,1.5
+Chongyun,90,Espadão,10984,223,648,0.24,%ATK,0.05,1.5
+Diluc,90,Espadão,12981,335,784,0.192,%TaxaCritica,0.242,1.5
+Fischl,90,Arco,9189,244,594,0.24,%ATK,0.05,1.5
+Jean,90,Espada,14695,239,769,0.222,%BonusdeCura,0.05,1.5
+Kaeya,90,Espada,11636,223,792,0.267,%RecargaEnergia,0.05,1.5
+Keqing,90,Espada,13103,323,799,0.384,%DanoCritico,0.05,1.884
+Klee,90,Catalisador,10287,311,615,0.288,%BonusDanoPyro,0.05,1.5
+Lisa,90,Catalisador,9570,232,573,96,ProficienciaElemental,0.05,1.5
+Mona,90,Catalisador,10409,287,653,0.32,%RecargaEnergia,0.05,1.5
+Ningguang,90,Catalisador,9787,212,573,0.24,%BonusDanoGeo,0.05,1.5
+Noelle,90,Espadão,12071,191,799,0.3,%DEF,0.05,1.5
+Qiqi,90,Espada,12368,287,922,0.222,%BonusdeCura,0.05,1.5
+Razor,90,Espadão,11962,234,751,0.3,%BonusDanoFisico,0.05,1.5
+Sucrose,90,Catalisador,9243,170,703,0.24,%BonusDanoAnemo,0.05,1.5
+Traveler(Anemo),90,Espada,10875,212,683,0.24,%ATK,0.05,1.5
+Traveler(Geo),90,Espada,10875,212,683,0.24,%ATK,0.05,1.5
+Traveler(Electro),90,Espada,10875,212,683,0.24,%ATK,0.05,1.5
+Venti,90,Arco,10531,263,669,0.32,%RecargaEnergia,0.05,1.5
+Xiangling,90,Lança,10875,225,669,96,ProficienciaElemental,0.05,1.5
+Xiao,90,Lança,12736,349,799,0.192,%TaxaCritica,0.242,1.5
+Xingqiu,90,Espada,10223,202,758,0.24,%ATK,0.05,1.5
+Tartaglia,90,Arco,13103,301,815,0.288,%BonusDanoHydro,0.05,1.5
+Zhongli,90,Lança,14695,251,738,0.288,%BonusDanoGeo,0.05,1.5
+Diona,90,Arco,9570,212,601,0.24,%BonusDanoCryo,0.05,1.5
+Xinyan,90,Espadão,11201,249,799,0.24,%ATK,0.05,1.5
+Ganyu,90,Arco,9797,335,630,0.384,%DanoCritico,0.05,1.884
+Albedo,90,Espada,13226,251,876,0.288,%BonusDanoGeo,0.05,1.5
+Rosaria,90,Lança,12289,240,710,0.24,%ATK,0.05,1.5
+Kamisato Ayaka,90,Espada,12858,342,784,0.384,%DanoCritico,0.05,1.884
+Hu Tao,90,Lança,15552,106,876,0.384,%DanoCritico,0.05,1.884
+Yanfei,90,Catalisador,9352,240,587,0.24,%BonusDanoPyro,0.05,1.5
+Eula,90,Espadão,13226,342,751,0.384,%DanoCritico,0.05,1.884
+Kaedehara Kazuha,90,Espada,13348,297,807,115,ProficienciaElemental,0.05,1.5
+Yoimiya,90,Arco,10164,323,615,0.192,%TaxaCritica,0.242,1.5
+Sayu,90,Espadão,11854,244,745,96,ProficienciaElemental,0.05,1.5
+Raiden Shogun,90,Lança,12907,337,789,0.32,%RecargaEnergia,0.05,1.5
+Kujou Sara,90,Arco,9570,195,628,0.24,%ATK,0.05,1.5
