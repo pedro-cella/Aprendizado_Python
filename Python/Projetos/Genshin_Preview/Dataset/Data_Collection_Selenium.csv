@@ -1,0 +1,47 @@
+﻿Nome,Arma,Elemento,Nivel,HP Base,ATK Base,Defesa Base,Taxa Critica,Dano Critico,Raridade
+Albedo,Sword,Geo,90,13226,251,876,5%,50%,5
+Aloy,Bow,Cryo,90,10899,234,676,5%,50%,5
+Amber,Bow,Pyro,90,9461,223,601,5%,50%,4
+Arataki Itto,Claymore,Geo,90,12858,227,959,50%,50%,5
+Barbara,Catalyst,Hydro,90,9787,159,669,5%,50%,4
+Beidou,Claymore,Electro,90,13050,225,648,5%,50%,4
+Bennett,Sword,Pyro,90,12397,191,771,5%,50%,4
+Chongyun,Claymore,Cryo,90,10984,223,648,5%,50%,4
+Diluc,Claymore,Pyro,90,12981,335,784,24.2%,50%,5
+Diona,Bow,Cryo,90,9570,212,601,5%,50%,4
+Eula,Claymore,Cryo,90,13226,342,751,5%,88.4%,5
+Fischl,Bow,Electro,90,9189,244,594,5%,50%,4
+Ganyu,Bow,Cryo,90,9797,335,630,5%,88.4%,5
+Gorou,Bow,Geo,90,9570,183,648,5%,50%,4
+Hu Tao,Polearm,Pyro,90,15552,106,876,5%,88.4%,5
+Jean,Sword,Anemo,90,14695,239,769,5%,50%,5
+Kaedehara Kazuha,Sword,Anemo,90,13348,297,807,5%,50%,5
+Kaeya,Sword,Cryo,90,11636,223,792,5%,50%,4
+Kamisato Ayaka,Sword,Cryo,90,12858,342,784,5%,88.4%,5
+Keqing,Sword,Electro,90,13103,323,799,5%,88.4%,5
+Klee,Catalyst,Pyro,90,10287,311,615,5%,50%,5
+Kujou Sara,Bow,Electro,90,9570,195,628,5%,50%,4
+Lisa,Catalyst,Electro,90,9570,232,573,5%,50%,4
+Mona,Catalyst,Hydro,90,10409,287,653,5%,50%,5
+Ningguang,Catalyst,Geo,90,9787,212,573,5%,50%,4
+Noelle,Claymore,Geo,90,12071,191,799,5%,50%,4
+Qiqi,Sword,Cryo,90,12368,287,922,5%,50%,5
+Raiden Shogun,Polearm,Electro,90,12907,337,789,5%,50%,5
+Razor,Claymore,Electro,90,11962,234,751,5%,50%,4
+Rosaria,Polearm,Cryo,90,12289,240,710,5%,50%,4
+Sangonomiya Kokomi,Catalyst,Hydro,90,13471,234,657,5%,50%,5
+Sayu,Claymore,Anemo,90,11854,244,745,5%,50%,4
+Shenhe,Polearm,Cryo,90,12993,304,830,5%,50%,5
+Sucrose,Catalyst,Anemo,90,9244,170,703,5%,50%,4
+Tartaglia,Bow,Hydro,90,13103,301,815,5%,50%,5
+Thoma,Polearm,Pyro,90,10331,202,751,5%,50%,4
+Traveler,Sword,Anemo,90,10875,212,683,5%,50%,5
+Venti,Bow,Anemo,90,10531,263,669,5%,50%,5
+Xiangling,Polearm,Pyro,90,10875,225,669,5%,50%,4
+Xiao,Polearm,Anemo,90,12736,349,799,24.2%,50%,5
+Xingqiu,Sword,Hydro,90,10222,202,758,5%,50%,4
+Xinyan,Claymore,Pyro,90,11201,249,799,5%,50%,4
+Yanfei,Catalyst,Pyro,90,9352,240,587,5%,50%,4
+Yoimiya,Bow,Pyro,90,10164,323,615,24.2%,50%,5
+Yun Jin,Polearm,Geo,90,10657,191,734,5%,50%,4
+Zhongli,Polearm,Geo,90,14695,251,738,5%,50%,5
